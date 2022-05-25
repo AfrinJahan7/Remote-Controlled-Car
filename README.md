@@ -1,7 +1,7 @@
 # Remote-Controlled-Car
 A three wheeler using customed easier pro board, switch board and power bank which is controlled by a controller app.
 # Components
-<img src="https://user-images.githubusercontent.com/103069740/170375004-26c921c9-0ee5-4732-a5dd-efe624e35b79.png" width="300">
+<img src="https://user-images.githubusercontent.com/103069740/170375004-26c921c9-0ee5-4732-a5dd-efe624e35b79.png" width="400">
 
 
 # Controller App
